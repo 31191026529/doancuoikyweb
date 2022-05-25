@@ -1,0 +1,185 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url(//fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap);
+body {
+    background-color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px
+}
+
+h1{
+    color: #000;
+    font-size: 30px;
+    /* background-color: lavender; */
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+h3:nth-child(1){
+    margin-top: 100px;
+}
+h3{
+    color: violet;
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+}
+h2,
+h4,
+h5,
+h6 {
+    color: #000;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a,
+.footer-middle .instagram-link:hover,
+.pagination>li>a,
+.pagination>li>span,
+.filter-product legend,
+.input-group-addon,
+.select_options {
+    color: #000
+}
+
+a:focus,
+a:hover,
+.modal-content button.close:hover,
+.welcome-newsletter form button:hover,
+.select_options:hover,
+.single-product-tabs li.active a,
+.faqs-content h2:hover {
+    color: #6f42c1
+}
+
+.collection-item a {
+    color: #000
+}
+
+.collection-item a:hover {
+    color: #6f42c1
+}
+
+.btn-default,
+.btn-default.disabled {
+    color: #fff;
+    background-color: #6f42c1;
+    border-color: #6f42c1
+}
+
+.btn-default.disabled {
+    opacity: .5
+}
+
+.btn-default.active,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:focus,
+.btn-default:hover,
+.open>.dropdown-toggle.btn-default {
+    color: #fff;
+    background-color: #4c327e;
+    border-color: #6f42c1
+}
+
+.btn-primary,
+.btn-primary.disabled {
+    color: #fff;
+    background-color: #6f42c1;
+    border-color: #6f42c1
+}
+
+.btn-primary.disabled {
+    opacity: .5
+}
+
+.btn-primary.active,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover,
+.open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #4c327e;
+    border-color: #6f42c1
+}
+
+header {
+    background: #3dabf0;
+    color: rgb(0, 0, 0)
+}
+
+footer {
+    background: #000;
+    color: #fff;
+    /* margin-bottom: 3rem !important;
+    padding-top: 3rem !important;
+    padding-bottom: 5rem !important;
+    background-image: url(https://wp.lpd-themes.com/wp-content/uploads/2020/10/skyla-pattern_3_2.jpg?id=711) !important;
+    background-position: 0 0 !important;
+    background-repeat: repeat !important; */
+}
+
+.header-top {
+    background: #3dabf0;
+    border-bottom: 1px solid #389ad8
+}
+
+.header-bottom {
+    background: #3dabf0
+}
+
+.navbar-default .navbar-nav>li>a,
+.header-top a {
+    color: #fff
+}
+
+.header-top a:hover {
+    color: #000
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #000
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #000
+}
+
+.footer-list-style li a {
+    color: #fff
+}
+
+footer h4,
+footer a {
+    color: #fff
+}
+
+footer a:hover {
+    color: #3dabf0 !important
+}
+
+.newsletter .btn-default {
+    background: #3dabf0;
+    color: #fff
+}
+/* .top-seller{
+    margin-bottom: 3rem !important;
+    padding-top: 3rem !important;
+    padding-bottom: 5rem !important;
+    background-image: url(https://wp.lpd-themes.com/wp-content/uploads/2020/10/skyla-pattern_3_2.jpg?id=711) !important;
+    background-position: 0 0 !important;
+    background-repeat: repeat !important;
+}
+.makeup{
+    margin-bottom: 3rem !important;
+    padding-top: 3rem !important;
+    padding-bottom: 5rem !important;
+    background-image: url(https://wp.lpd-themes.com/wp-content/uploads/2020/10/skyla-pattern_3_2.jpg?id=711) !important;
+    background-position: 0 0 !important;
+    background-repeat: repeat !important;
+}
+} */
+
+/*# sourceMappingURL=/s/files/1/1412/7610/t/17/assets/paira-typography.css.map?v=121268532381626579421537612129 */
